@@ -1,4 +1,4 @@
-module github.com/sencha-dev/powkit
+module github.com/da-tai/powkit
 
 go 1.17
 
